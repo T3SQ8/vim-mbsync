@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead .mbsyncrc,mbsyncrc set filetype=mbsync
+autocmd BufNewFile,BufRead .mbsyncrc,mbsyncrc,isyncrc set filetype=mbsync
